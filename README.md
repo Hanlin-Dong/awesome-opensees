@@ -1,4 +1,4 @@
-# Awesome-Opensees  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-OpenSees  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Hi, this is a curated list of OpenSees resources. You may find something awesome that gives you a better experience using or developing OpenSees. OpenSees, the abbreviation for "the Open System for Earthquake Engineering Simulation", is an object-oriented open-source software framework, allowing users to create both serial and parallel finite element computer applications for simulating the response of structural and geotechnical systems subjected to earthquakes and other hazards. Here is a link to [OpenSees official wiki website](http://opensees.berkeley.edu/wiki/index.php/Main_Page).
 
