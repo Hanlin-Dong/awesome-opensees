@@ -39,6 +39,7 @@ OpenSees plugins for existing welcomed text editors.
 Simple scripts that help visualise OpenSees models or results.
 
 * [OpenSees Model View](https://github.com/jamesmaguire/opensees-model-view) - A Python package that can be used to visualise your OpenSees model as the tcl file is written. (`Matplotlib` needed)
+* [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) - A Matlab-based plotter for models developed in OpenSees
 
 ## API
 Application Programming Interfaces that call OpenSees.
