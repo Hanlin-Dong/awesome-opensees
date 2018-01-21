@@ -11,6 +11,7 @@ Contributing to the list is encouraged. Please read the [contribution guidelines
 * [Graphical Processor](#graphical-processor)
 * [Stand-Alone Editor](#stand-alone-editor)
 * [Editor Plugin](#editor-plugin)
+* [Visualiser](#visualiser)
 * [API](#api)
 * [Code Snippet](#Code-Snippet)
 
@@ -34,10 +35,15 @@ OpenSees plugins for existing welcomed text editors.
 * [Sublime-OpenSees](https://packagecontrol.io/packages/OpenSees) - A [Sublime Text](https://www.sublimetext.com/) plug-in for the OpenSees extension language of TCL. (Windows, MacOS & Linux)
 * [OpenSEESAutoComplete](https://github.com/Hanlin-Dong/OpenSEESAutoComplete) - An auto-complete plugin to make writing OpenSees file easier on [Notepad++](https://notepad-plus-plus.org/). (Windows only)
 
+## Visualiser
+Simple scripts that help visualise OpenSees models or results.
+
+* [OpenSees Model View](https://github.com/jamesmaguire/opensees-model-view) - A Python package that can be used to visualise your OpenSees model as the tcl file is written. (`Matplotlib` needed)
+
 ## API
 Application Programming Interfaces that call OpenSees.
 
-* [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A python package that is used to write OpenSees tcl scripts quickly.
+* [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly.
 
 ## License
 
