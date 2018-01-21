@@ -10,6 +10,8 @@ This awesome-list project is inspired by the project [awesome](https://github.co
 
 Contributing to the list is encouraged. Please read the [contribution guidelines](contributing.md) before making pull requests. If you have problems on contributing, please click on the `PRs Welcome` badge above. 
 
+If you find the listed resources useful or rubbish, please move to the `issues` board and vote for them. Each resource listed has an own issue with the lable `vote`. Please give a :+1: or :-1: to the first comment. Also, don't forget to `star` this repository. The authors are grateful to your kind contribution.
+
 ## Contents
 * [Graphical Processor](#graphical-processor)
 * [Stand-Alone Editor](#stand-alone-editor)
