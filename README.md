@@ -1,7 +1,7 @@
 # Awesome-OpenSees  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/awesome-opensees)
+[![Join the chat at https://gitter.im/awesome-opensees/Lobby](https://badges.gitter.im/awesome-opensees/Lobby.svg)](https://gitter.im/awesome-opensees/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Analytics](https://ga-beacon.appspot.com/UA-112803115-1/github-repo-readme)](https://github.com/Hanlin-Dong/awesome-opensees)
 
 Hi, this is a curated list of OpenSees resources. You may find something awesome that gives you a better experience using or developing OpenSees. Learn more on [OpenSees official wiki website](http://opensees.berkeley.edu/wiki/index.php/Main_Page).
