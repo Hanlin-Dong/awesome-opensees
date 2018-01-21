@@ -31,6 +31,7 @@ Stand-alone editor programs just for OpenSees code.
 OpenSees plugins for existing welcomed text editors.
 
 * [Sublime-OpenSees](https://packagecontrol.io/packages/OpenSees) - A [Sublime Text](https://www.sublimetext.com/) plug-in for the OpenSees extension language of TCL. (Windows, MacOS & Linux)
+* [OpenSEESAutoComplete](https://github.com/Hanlin-Dong/OpenSEESAutoComplete) - An auto-complete plugin to make writing OpenSees file easier on [Notepad++](https://notepad-plus-plus.org/). (Windows only)
 
 ## License
 
