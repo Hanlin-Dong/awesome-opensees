@@ -45,6 +45,7 @@ Simple scripts that help visualise OpenSees models or results.
 Application Programming Interfaces that call OpenSees.
 
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly.
+* [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB
 
 ## License
 
