@@ -34,7 +34,8 @@ OpenSees plugins for existing welcomed text editors.
 
 * [Sublime-OpenSees](https://packagecontrol.io/packages/OpenSees) - A [Sublime Text](https://www.sublimetext.com/) plug-in for the OpenSees extension language of TCL. (Windows, MacOS & Linux)
 * [OpenSEESAutoComplete](https://github.com/Hanlin-Dong/OpenSEESAutoComplete) - An auto-complete plugin to make writing OpenSees file easier on [Notepad++](https://notepad-plus-plus.org/). (Windows only)
-* [Atom Language Package](https://github.com/jamesmaguire/language-opensees) - An Atom text editor package that provides syntax highlighting and auto-completion for OpenSees tcl scripts.
+* [Atom Language Package](https://github.com/jamesmaguire/language-opensees) - An [Atom](https://atom.io/) text editor package that provides syntax highlighting and auto-completion for OpenSees tcl scripts.
+* [VSCode Language Support](https://github.com/jamesmaguire/vscode-language-opensees) - An extension that adds rich language support for OpenSees flavoured TCL language in [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Visualiser
 Simple scripts that help visualise OpenSees models or results.
