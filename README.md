@@ -54,6 +54,7 @@ Application Programming Interfaces that call OpenSees.
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly.
 * [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB.
 * [Script Generation via Templates](https://github.com/ucgmsim/OpenSees_script-generation) - An inspiring example of using Python template engine [Jinjia2](http://jinja.pocoo.org/) to generate massive tcl scripts.
+* [Node-OpenSees](https://github.com/lge88/node-opensees) - A [Node.js](https://nodejs.org/) bind for OpenSees. (Not maintained, just for inspiration)
 
 ## Procedure and Snippet
 Reuseable procedures and snippets. All the files are stored in the `tcl` directory.
@@ -67,4 +68,5 @@ Official and unofficial tutorials and examples in a variety of languages.
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 To the extent possible under law, [Hanlin Dong](http://www.hanlindong.com) has waived all copyright and related or neighboring rights to awesome-opensees. This work is published from: Mainland China.
