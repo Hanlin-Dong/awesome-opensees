@@ -13,7 +13,7 @@ Contributing to the list is encouraged. Please read the [contribution guidelines
 * [Editor Plugin](#editor-plugin)
 * [Visualiser](#visualiser)
 * [API](#api)
-* [Code Snippet](#Code-Snippet)
+* [Procedure and Snippet](#procedure-and-snippet)
 
 
 ## Graphical Processor
@@ -50,6 +50,9 @@ Application Programming Interfaces that call OpenSees.
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly.
 * [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB.
 * [Script Generation via Templates](https://github.com/ucgmsim/OpenSees_script-generation) - An inspiring example of using Python template engine [Jinjia2](http://jinja.pocoo.org/) to generate massive tcl scripts.
+
+## Procedure and Snippet
+Reuseable procedures and snippets. All the files are stored in the `tcl` directory.
 
 ## License
 
