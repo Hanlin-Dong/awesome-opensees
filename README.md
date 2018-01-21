@@ -20,6 +20,7 @@ If you find the listed resources useful or rubbish, please move to the `issues` 
 * [API](#api)
 * [Procedure and Snippet](#procedure-and-snippet)
 * [Tutorial and Example](#tutorial-and-example)
+* [Blog and Community](#blog-and-community)
 
 ## Graphical Processor
 User-friendly graphical pre- and post-processors for OpenSees.
@@ -67,6 +68,12 @@ Official and unofficial tutorials and examples in a variety of languages.
 * [Official Getting Started Manual](http://opensees.berkeley.edu/wiki/index.php/Getting_Started) - A brief introduction to get started.
 * [Official Examples Collection](http://opensees.berkeley.edu/wiki/index.php/Examples) - All the examples provided by the OpenSees developing group.
 * [Getting Started Tutorial in Chinese](http://www.hanlindong.com/2017/opensees-bootstrap/) - A simple but powerful tutorial for brand new users. (in Chinese)
+
+## Blog and Community
+Personal blogs, communities or forums where you can find help.
+
+* [Official Community](http://opensees.berkeley.edu/community/index.php) - The official community where you can get help from software developers.
+* [dinochen.com in Chinese](http://dinochen.com/) - Blog of Dr. Chen Xue Wei, Senior Associate, WSP Hong Kong Ltd.
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
