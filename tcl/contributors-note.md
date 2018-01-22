@@ -1,4 +1,4 @@
-# Note to Contributors
+# Note to Code Contributors
 
 Dear contributor, if you are kindly willing to contribute to this `tcl` directory, please read the following guidelines carefully. The authors of Awesome-OpenSees appreciate your work.
 
