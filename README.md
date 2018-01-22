@@ -75,6 +75,9 @@ Personal blogs, communities or forums where you can find help.
 * [Official Community](http://opensees.berkeley.edu/community/index.php) - The official community where you can get help from software developers.
 * [dinochen.com in Chinese](http://dinochen.com/) - Blog of Dr. Chen Xue Wei, Senior Associate, WSP Hong Kong Ltd.
 
+## Contributing
+If you are interested in contributing, please read the [contribution guidelines](contributing.md). You can either contribute to the list, or contribute to the tcl codes. Your efforts are highly appreciated by the authors.
+
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
