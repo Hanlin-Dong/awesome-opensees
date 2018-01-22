@@ -27,7 +27,11 @@ Please ensure your pull request adheres to the following guidelines:
 8. Click on the green `Propose file change` button.
 9. Submit the pull request.
 
-# Other resources
+## Contribute .tcl codes
+
+The `tcl` directory is a collection of reusable tcl procedure defination scripts. If you want to contribute to the scripts, please enter the directory, and read [note to contributors](tcl/contributors-note.md). A [template tcl file](tcl/AwesomeOpenseesTemplate.tcl) is provided. Just follow the guidelines, and the template. Everyone is welcome to contribute your code.
+
+## Other resources
 
 * [What is version control system & Git?](https://git-scm.com/)
 * [What is a pull request?](https://help.github.com/articles/about-pull-requests/)
