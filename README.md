@@ -17,6 +17,7 @@ If you find the listed resources useful or rubbish, please move to the `issues` 
 * [Stand-Alone Editor](#stand-alone-editor)
 * [Editor Plugin](#editor-plugin)
 * [Visualiser](#visualiser)
+* [Cloud Computing](#cloud-computing)
 * [API](#api)
 * [Procedure and Snippet](#procedure-and-snippet)
 * [Tutorial and Example](#tutorial-and-example)
@@ -50,6 +51,11 @@ Simple scripts that help visualise OpenSees models or results.
 * [OpenSees Model View](https://github.com/jamesmaguire/opensees-model-view) - A Python package that can be used to visualise your OpenSees model as the tcl file is written.
 * [OpenSees 3D Visualisation](https://github.com/jamesmaguire/opensees-3d-visualisation) - A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model.
 * [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) - A Matlab-based plotter for models developed in OpenSees.
+
+## Cloud Computing
+Resources and guidelines for you to run OpenSees on cloud.
+
+* [Amazon EC2](http://opensees.berkeley.edu/wiki/index.php/AmazonEC2) - A guideline to running OpenSees Sequentially and in Parallel on Amazon EC2.
 
 ## API
 Application Programming Interfaces that call OpenSees.
