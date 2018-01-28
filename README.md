@@ -19,7 +19,7 @@ If you find the listed resources useful or rubbish, please move to the `issues` 
 * [Visualiser](#visualiser)
 * [Cloud Computing](#cloud-computing)
 * [API](#api)
-* [Procedure and Snippet](#procedure-and-snippet)
+* [User Procedure](#user-procedure)
 * [Tutorial and Example](#tutorial-and-example)
 * [Blog and Community](#blog-and-community)
 
@@ -55,6 +55,7 @@ Simple scripts that help visualise OpenSees models or results.
 ## Cloud Computing
 Resources and guidelines for you to run OpenSees on cloud.
 
+* [Docker Image](https://hub.docker.com/r/hanlindong/opensees/) - A light-weight [docker](https://www.docker.com/) image to run OpenSees on any cloud or local platform easily.
 * [Amazon EC2](http://opensees.berkeley.edu/wiki/index.php/AmazonEC2) - A guideline to running OpenSees Sequentially and in Parallel on Amazon EC2.
 
 ## API
@@ -65,8 +66,8 @@ Application Programming Interfaces that call OpenSees.
 * [Script Generation via Templates](https://github.com/ucgmsim/OpenSees_script-generation) - An inspiring example of using Python template engine [Jinjia2](http://jinja.pocoo.org/) to generate massive tcl scripts.
 * [Node-OpenSees](https://github.com/lge88/node-opensees) - A [Node.js](https://nodejs.org/) bind for OpenSees. (Not maintained, just for inspiration)
 
-## Procedure and Snippet
-Reuseable procedures and snippets. All the files are stored in the `tcl` directory.
+## User Procedure
+Reuseable user-defined procedures and snippets. All the files are stored in the `tcl` directory.
 
 ## Tutorial and Example
 Official and unofficial tutorials and examples in a variety of languages.
