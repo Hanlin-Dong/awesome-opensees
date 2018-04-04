@@ -70,10 +70,11 @@ Resources and guidelines for you to run OpenSees on cloud.
 ## API
 Application Programming Interfaces that call OpenSees.
 
+* [The OpenSeesPy Library](http://openseespydoc.readthedocs.io) - A Python 3 interpreter library from the official website. ![python][python]
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly. ![oss][oss] ![python][python]
 * [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB. ![oss][oss] ![matlab][matlab]
 * [Script Generation via Templates](https://github.com/ucgmsim/OpenSees_script-generation) - An inspiring example of using Python template engine [Jinjia2](http://jinja.pocoo.org/) to generate massive tcl scripts. ![oss][oss]
-* [Node-OpenSees](https://github.com/lge88/node-opensees) - A [Node.js](https://nodejs.org/) bind for OpenSees. (Not maintained, just for inspiration) ![oss][oss]
+* [Node-OpenSees](https://github.com/lge88/node-opensees) - A [Node.js](https://nodejs.org/) bind for OpenSees. (Not maintained, just for inspiration) ![oss][oss] ![skull][skull]
 
 ## User Procedure
 Reuseable user-defined procedures and snippets. All the files are stored in the `tcl` directory.
