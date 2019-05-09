@@ -32,6 +32,9 @@ Contributing to the list is encouraged. Please read the [contribution guidelines
 * [Tutorial and Example](#tutorial-and-example)
 * [Blog and Community](#blog-and-community)
 
+## Source Code
+The official source code of OpenSees has finally moved to Github! See [the repository](https://github.com/OpenSees/OpenSees)!
+
 ## Graphical Processor
 User-friendly graphical pre- and post-processors for OpenSees.
 
