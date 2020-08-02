@@ -64,6 +64,7 @@ Simple scripts that help visualise OpenSees models or results.
 * [OpenSees Model View](https://github.com/jamesmaguire/opensees-model-view) - A Python package that can be used to visualise your OpenSees model as the tcl file is written. ![oss][oss] ![python][python]
 * [OpenSees 3D Visualisation](https://github.com/jamesmaguire/opensees-3d-visualisation) - A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model. ![oss][oss] ![python][python]
 * [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) - A Matlab-based plotter for models developed in OpenSees. ![oss][oss] ![matlab][matlab]
+* [OpenSees Online Visualizer](http://www.hanlindong.com/tool/opensees-online-visualizer/) - Copy and paste your tcl code in browser, and your visualized model is there.
 
 ## Cloud Computing
 Resources and guidelines for you to run OpenSees on cloud.
@@ -81,7 +82,9 @@ Application Programming Interfaces that call OpenSees.
 * [Node-OpenSees](https://github.com/lge88/node-opensees) - A [Node.js](https://nodejs.org/) bind for OpenSees. (Not maintained, just for inspiration) ![oss][oss] ![skull][skull]
 
 ## User Procedure
-Reuseable user-defined procedures and snippets. All the files are stored in the `tcl` directory.
+Reuseable user-defined procedures and snippets.
+
+* [Smart Analyze](https://github.com/Hanlin-Dong/SmartAnalyze) - A helper user procedure to improve convergence and speed up for both quasi-static and time-history analyses.
 
 ## Tutorial and Example
 Official and unofficial tutorials and examples in a variety of languages.
