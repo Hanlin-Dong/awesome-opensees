@@ -65,6 +65,7 @@ Simple scripts that help visualise OpenSees models or results.
 * [OpenSees 3D Visualisation](https://github.com/jamesmaguire/opensees-3d-visualisation) - A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model. ![oss][oss] ![python][python]
 * [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) - A Matlab-based plotter for models developed in OpenSees. ![oss][oss] ![matlab][matlab]
 * [OpenSees Online Visualizer](http://www.hanlindong.com/tool/opensees-online-visualizer/) - Copy and paste your tcl code in browser, and your visualized model is there.
+* [OpenSeesPy PostProcessor](https://openseespydoc.readthedocs.io/en/latest/src/plotcmds.html) - OpenSeesPy is the Python version of OpenSees. It includes post-processing commands that can be used to visualize 2D and 3D models with beam-column elements, Tri, Quad, and brick elements with only a single command. Users can plot deformed shapes, mode-shapes and time-hostory animations for both OpenSees Python and Tcl models. The animations can be saved as a movie file. ![oss][oss] ![python][python]
 
 ## Cloud Computing
 Resources and guidelines for you to run OpenSees on cloud.
@@ -98,6 +99,8 @@ Personal blogs, communities or forums where you can find help.
 
 * [Official Community](http://opensees.berkeley.edu/community/index.php) - The official community where you can get help from software developers.
 * [dinochen.com in Chinese](http://dinochen.com/) - Blog of Dr. Chen Xue Wei, Senior Associate, WSP Hong Kong Ltd. ![chinese][chinese]
+* [Portwood Digital](https://portwooddigital.com/) - Blog of Dr. Michael Scott, Oregon State University. He is one of the core developers of OpenSees.
+* [Jose Abell's Research Blog](https://joseabell.com/) - Blog of Dr. Jose Abell focused on Geotechincal research using OpenSees.
 
 ## Contributing
 If you are interested in contributing, please read the [contribution guidelines](contributing.md). You can either contribute to the list, or contribute to the tcl codes. Your efforts are highly appreciated by the authors.
