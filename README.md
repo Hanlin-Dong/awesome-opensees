@@ -33,7 +33,9 @@ Contributing to the list is encouraged. Please read the [contribution guidelines
 * [Blog and Community](#blog-and-community)
 
 ## Source Code
-The official source code of OpenSees has finally moved to Github! See [the repository](https://github.com/OpenSees/OpenSees)!
+The official source code of OpenSees is available on Github! See [the repository](https://github.com/OpenSees/OpenSees)!
+
+The OpenSeesPy package is available on PyPi. Install [the package](https://pypi.org/project/openseespy/)!
 
 ## Graphical Processor
 User-friendly graphical pre- and post-processors for OpenSees.
@@ -65,7 +67,7 @@ Simple scripts that help visualise OpenSees models or results.
 * [OpenSees 3D Visualisation](https://github.com/jamesmaguire/opensees-3d-visualisation) - A Python script that reads OpenSees simulation input and output files to create a 3D visualisation of your displaced model. ![oss][oss] ![python][python]
 * [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) - A Matlab-based plotter for models developed in OpenSees. ![oss][oss] ![matlab][matlab]
 * [OpenSees Online Visualizer](http://www.hanlindong.com/tool/opensees-online-visualizer/) - Copy and paste your tcl code in browser, and your visualized model is there.
-* [OpenSeesPy PostProcessor](https://openseespydoc.readthedocs.io/en/latest/src/plotcmds.html) - OpenSeesPy is the Python version of OpenSees. It includes post-processing commands that can be used to visualize 2D and 3D models with beam-column elements, Tri, Quad, and brick elements with only a single command. Users can plot deformed shapes, mode-shapes and time-hostory animations for both OpenSees Python and Tcl models. The animations can be saved as a movie file. ![oss][oss] ![python][python]
+* [OpenSeesPy PostProcessor](https://openseespydoc.readthedocs.io/en/latest/src/plotcmds.html) - OpenSeesPy includes post-processing commands that can be used to visualize 2D and 3D models with beam-column elements, Tri, Quad, and brick elements with only a single command. Users can plot deformed shapes, mode-shapes and time-hostory animations for both OpenSees Python and Tcl models. The animations can be saved as a movie file. ![oss][oss] ![python][python]
 
 ## Cloud Computing
 Resources and guidelines for you to run OpenSees on cloud.
@@ -93,6 +95,7 @@ Official and unofficial tutorials and examples in a variety of languages.
 * [Official Getting Started Manual](http://opensees.berkeley.edu/wiki/index.php/Getting_Started) - A brief introduction to get started.
 * [Official Examples Collection](http://opensees.berkeley.edu/wiki/index.php/Examples) - All the examples provided by the OpenSees developing group.
 * [Getting Started Tutorial in Chinese](http://www.hanlindong.com/2017/opensees-bootstrap/) - A simple but powerful tutorial for brand new users. ![chinese][chinese]
+* [Silvia's Brainery](https://www.silviasbrainery.com/) - Numerous Tcl and Python examples, videos, and tutorials. Also available at [Silvia's Brainery on YouTube](https://www.youtube.com/c/SilviasBrainery).
 
 ## Blog and Community
 Personal blogs, communities or forums where you can find help.
