@@ -73,6 +73,7 @@ Simple scripts that help visualise OpenSees models or results.
 ## Cloud Computing
 Resources and guidelines for you to run OpenSees on cloud.
 
+* [OpenSees Cloud](https://openseescloud.com) - SaaS implementation of OpenSees, hosted on AWS, accessed through user accounts. ![win][win] ![mac][mac] ![linux][linux]
 * [Docker Image](https://hub.docker.com/r/hanlindong/opensees/) - A light-weight [docker](https://www.docker.com/) image to run OpenSees on any cloud or local platform easily. ![win][win] ![mac][mac] ![linux][linux] ![oss][oss]
 * [Amazon EC2](http://opensees.berkeley.edu/wiki/index.php/AmazonEC2) - A guideline to running OpenSees Sequentially and in Parallel on Amazon EC2. ![win][win] ![mac][mac] ![linux][linux]
 
