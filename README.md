@@ -39,6 +39,7 @@ The official source code of OpenSees has finally moved to Github! See [the repos
 User-friendly graphical pre- and post-processors for OpenSees.
 
 * [GiD+OpenSees](http://gidopensees.rclab.civil.auth.gr/) - An OpenSees add-on for [GiD](https://www.gidhome.com/download/), A general graphical pre/post processor. ![win][win] ![mac][mac] ![linux][linux] ![oss][oss]
+* [STKO](https://asdeasoft.net/?product-stko) - Scientific ToolKit for OpenSees, aka STKO. Advanced Graphical User Interface (GUI). ![win][win]
 * [Build-X](https://www.buildx4opensees.eu/) - An Expert Tool for Seismic Analysis and Assessment of 3D Buildings with OpenSees. ![win][win]
 * [NextFEM](http://www.nextfem.it/it/home/) - A user friendly Finite Element Analysis program, which can be used alone or to be a pre- or post- processor for several widely used FEM programs (i.e. OOFEM, SAP2000, Midas GEN, OpenSees, ABAQUS/CalculiX, Zeus-NL, and others). ![win][win]
 * [OpenSees Navigator](http://openseesnavigator.berkeley.edu/) - A stand-alone Matlab interface allowing users to quickly create models, perform analysis, and look at the results. ![win][win] ![mac][mac] ![matlab][matlab]
