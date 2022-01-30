@@ -97,6 +97,7 @@ Official and unofficial tutorials and examples in a variety of languages.
 * [Official Getting Started Manual](http://opensees.berkeley.edu/wiki/index.php/Getting_Started) - A brief introduction to get started.
 * [Official Examples Collection](http://opensees.berkeley.edu/wiki/index.php/Examples) - All the examples provided by the OpenSees developing group.
 * [Getting Started Tutorial in Chinese](http://www.hanlindong.com/2017/opensees-bootstrap/) - A simple but powerful tutorial for brand new users. ![chinese][chinese]
+* [OpenSees Tutorials by Christian Slotboom](https://www.youtube.com/channel/UCA31vQmuRBOjjsHDFjxkelQ) - Youtube channel with getting started videos.
 * [Silvia's Brainery](https://www.silviasbrainery.com/) - Numerous Tcl and Python examples, videos, and tutorials. Also available at [Silvia's Brainery on YouTube](https://www.youtube.com/c/SilviasBrainery).
 
 ## Blog and Community
