@@ -69,6 +69,7 @@ Simple scripts that help visualise OpenSees models or results.
 * [OpenSees Model Plotter Matlab](https://github.com/gerardjoreilly/OpenSees-Model-Plotter-Matlab) - A Matlab-based plotter for models developed in OpenSees. ![oss][oss] ![matlab][matlab]
 * [OpenSees Online Visualizer](http://www.hanlindong.com/tool/opensees-online-visualizer/) - Copy and paste your tcl code in browser, and your visualized model is there.
 * [OpenSeesPy PostProcessor](https://openseespydoc.readthedocs.io/en/latest/src/plotcmds.html) - OpenSeesPy includes post-processing commands that can be used to visualize 2D and 3D models with beam-column elements, Tri, Quad, and brick elements with only a single command. Users can plot deformed shapes, mode-shapes and time-hostory animations for both OpenSees Python and Tcl models. The animations can be saved as a movie file. ![oss][oss] ![python][python]
+* [`sees` Python package](https://github.com/STAIRlab/sees) - A visualization framework for creating high quality and responsive renderings using glTF technology with support for both Python and Tcl. ![oss][oss] ![python][python] ![mac][mac] ![win][win]
 
 ## Cloud Computing
 Resources and guidelines for you to run OpenSees on cloud.
@@ -82,6 +83,7 @@ Resources and guidelines for you to run OpenSees on cloud.
 ## API
 Application Programming Interfaces that call OpenSees.
 
+* [The `opensees` Library](http://pypi.org/project/opensees) - A Python package developed by PEER supporting both Tcl script execution, and a streamlined reimplementation of the earlier OpenSeesPy API. ![python][python] ![oss][oss] ![win][win] ![mac][mac]
 * [The OpenSeesPy Library](http://openseespydoc.readthedocs.io) - A Python 3 interpreter library from the official website. ![python][python]
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly. ![oss][oss] ![python][python]
 * [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB. ![oss][oss] ![matlab][matlab]
