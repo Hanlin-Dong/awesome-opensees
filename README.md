@@ -83,7 +83,7 @@ Resources and guidelines for you to run OpenSees on cloud.
 ## API
 Application Programming Interfaces that call OpenSees.
 
-* [The `opensees` Library](http://pypi.org/project/opensees) - A Python package developed by PEER supporting both Tcl script execution, and a streamlined reimplementation of the earlier OpenSeesPy API. ![python][python] ![oss][oss] ![win][win] ![mac][mac]
+* [The `opensees` Library](http://pypi.org/project/opensees) - A Python package that supports both Tcl script execution, and a streamlined reimplementation of the earlier OpenSeesPy API. ![python][python] ![oss][oss] ![win][win] ![mac][mac]
 * [The OpenSeesPy Library](http://openseespydoc.readthedocs.io) - A Python 3 interpreter library from the official website. ![python][python]
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly. ![oss][oss] ![python][python]
 * [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB. ![oss][oss] ![matlab][matlab]
