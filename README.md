@@ -35,7 +35,7 @@ Contributing to the list is encouraged. Please read the [contribution guidelines
 ## Source Code
 The official source code of OpenSees is available on Github! See [the repository](https://github.com/OpenSees/OpenSees)!
 
-The OpenSeesPy package is available on PyPi. Install [the package](https://pypi.org/project/openseespy/)!
+Official Python packages are available on PyPi, read more about them [here](https://opensees.github.io/OpenSeesDocumentation/user/pythonInstall.html).
 
 ## Graphical Processor
 User-friendly graphical pre- and post-processors for OpenSees.
@@ -83,7 +83,7 @@ Resources and guidelines for you to run OpenSees on cloud.
 ## API
 Application Programming Interfaces that call OpenSees.
 
-* [The `opensees` Library](http://pypi.org/project/opensees) - A Python package developed by PEER supporting both Tcl script execution, and a streamlined reimplementation of the earlier OpenSeesPy API. ![python][python] ![oss][oss] ![win][win] ![mac][mac]
+* [The `sees` Library](http://pypi.org/project/opensees) - An official Python package that supports both Tcl script execution, and a reimplementation of the OpenSeesPy API. ![python][python] ![oss][oss] ![win][win] ![mac][mac]
 * [OpenSeesAPI](https://github.com/nassermarafi/OpenSeesAPI) - A Python package that is used to write OpenSees tcl scripts quickly. ![oss][oss] ![python][python]
 * [OpenSeesAPI.m](https://github.com/andrewdsen/OpenSeesAPI.m) - An OpenSees API for MATLAB. ![oss][oss] ![matlab][matlab]
 * [Script Generation via Templates](https://github.com/ucgmsim/OpenSees_script-generation) - An inspiring example of using Python template engine [Jinjia2](http://jinja.pocoo.org/) to generate massive tcl scripts. ![oss][oss]
